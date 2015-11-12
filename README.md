@@ -1,4 +1,4 @@
-Office Hours Nov. 12 - Starter Code
+Office Hours Nov. 12, 2015 - Starter Code
 ===================================
 
 Clone this repo into your workspace using <pre><code>git clone</code></pre>
