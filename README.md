@@ -2,7 +2,7 @@ Office Hours Nov. 12 - Starter Code
 ===================================
 
 Clone this repo into your workspace.
-<pre><code>cd</code></pre> into the folder.
+<pre><code>cd office_hours_nov_12</code></pre><br>
 Run <pre><code>npm install</code></pre> in your terminal.
 
 You're ready to code!
