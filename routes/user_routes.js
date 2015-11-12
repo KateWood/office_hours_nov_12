@@ -4,11 +4,10 @@ var usersController = require('../controllers/users_controller.js'),
 
 //create routes for /users
 userRoutes.route('/')
-	.get(usersController.index)
-	.post(usersController.create)
+	//add routes for the root route /users
 
 //create routes for /users/:email
 userRoutes.route('/:email')
-	.get(usersController.show)
+	//add routes for the route /users/:email
 
 module.exports = userRoutes
